@@ -1,35 +1,85 @@
 # Gavin White – IT & Networking Portfolio
 
-## 🔐 Certifications
-- CompTIA Security+ CE
+## About Me
 
-## 🧠 Skills
-- Networking Fundamentals (TCP/IP, DNS, DHCP)
-- Active Directory (basic)
-- Virtualization (VirtualBox)
-- Windows & Linux basics
-- Troubleshooting
+I am an entry-level IT professional with a CompTIA Security+ certification and hands-on experience building and troubleshooting virtualized network environments. I focus on networking fundamentals, system configuration, and real-world problem solving.
 
-## 💻 Projects
+I have developed practical skills by creating home lab environments using Windows and Linux systems, configuring network communication, and resolving connectivity issues.
 
-### 🖥️ Home Lab Setup (VirtualBox)
-- Created virtual network with multiple machines
-- Configured Windows + Linux VMs
-- Practiced IP configuration and connectivity testing
+---
 
-### 🌐 Network Troubleshooting Lab
-- Diagnosed connectivity issues using ping, ipconfig, tracert
-- Simulated DNS failures and resolved them
+## Certifications
 
-### 🔐 Basic Security Lab
-- Practiced firewall rules
-- User permissions and account management
+* CompTIA Security+ (CE)
 
-## 📊 Tools Used
-- VirtualBox
-- Wireshark (optional soon)
-- Command Line (Windows/Linux)
+---
 
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/gavin-white-812345315
-- Email: whitegavin2000@gmail.com  
+## Technical Skills
+
+* Networking: TCP/IP, Subnetting, NAT, DHCP, ICMP
+* Operating Systems: Windows 10, Ubuntu Linux
+* Virtualization: Oracle VM VirtualBox
+* Tools: Command Prompt, Linux Terminal, Netplan
+* Troubleshooting: Network connectivity, IP conflicts, firewall configuration
+
+---
+
+## Projects
+
+### Home Lab Network
+
+Built a virtual network using Windows and Ubuntu virtual machines.
+
+* Configured internal network (192.168.10.0/24)
+* Assigned static IP addresses
+* Enabled communication between systems
+* Troubleshot network and firewall issues
+
+🔗 View Project: https://github.com/YOUR-USERNAME/home-lab-network
+
+---
+
+### Active Directory Lab (In Progress)
+
+Setting up a Windows Server environment to simulate enterprise network management.
+
+* Domain Controller setup
+* User and group management
+* Domain-joined machines
+* Group Policy basics
+
+---
+
+### IT Help Desk Simulation Lab (Planned)
+
+Simulating real-world IT support scenarios.
+
+* Diagnosing network connectivity issues
+* Resolving IP conflicts
+* User account troubleshooting
+* System configuration fixes
+
+---
+
+### Wireshark Network Analysis Lab (Planned)
+
+Analyzing network traffic using packet capture.
+
+* ICMP (ping) analysis
+* DNS request/response
+* TCP handshake inspection
+
+---
+
+## What I’m Currently Learning
+
+* Active Directory administration
+* Network troubleshooting in enterprise environments
+* Packet-level network analysis
+
+---
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+* Email: [your.email@example.com](mailto:your.email@example.com)
