@@ -35,8 +35,8 @@ Built a virtual network using Windows and Ubuntu virtual machines.
 * Enabled communication between systems
 * Troubleshot network and firewall issues
 
-🔗 View Project: https://github.com/YOUR-USERNAME/home-lab-network
-
+🔗 View Project: [https://github.com/YOUR-USERNAME/home-lab-network
+](https://github.com/Vino-Blanco/home-lab-network)
 ---
 
 ### Active Directory Lab (In Progress)
@@ -81,5 +81,5 @@ Analyzing network traffic using packet capture.
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: www.linkedin.com/in/gavin-white-812345315
+* Email: whitegavin2000@gmail.com
