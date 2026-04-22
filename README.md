@@ -12,8 +12,8 @@ My primary project is a full homelab environment running on Proxmox with a virtu
 
 | Certification | Status |
 |--------------|--------|
-| CompTIA Security+ (CE) | ✅ Earned |
-| CCNA | 📚 In Progress |
+| CompTIA Security+ (CE) | Earned |
+| CCNA | In Progress |
 
 ---
 
